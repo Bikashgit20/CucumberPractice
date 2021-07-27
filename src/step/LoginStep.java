@@ -23,13 +23,13 @@ public class LoginStep
 	
 	@Given("^navigate to the facebook login page$")
 	public void navigate_to_the_facebook_login_page() throws Throwable {
-		System.out.println("given--navigating to facebbok Login ");
+		System.out.println("given--navigating to facebook Login ");
 	   
 	}
 
 	@When("^user validate the home page title$")
 	public void user_validate_the_home_page_title() throws Throwable {
-		System.out.println("when--validating the home title page");
+		System.out.println("when--validating to the home title page");
 	    
 	}
 
